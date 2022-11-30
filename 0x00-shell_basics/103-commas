@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p '\n' ',' ./, ../,
+ls -p -a -d -m
